@@ -1,0 +1,25 @@
+body {
+    font-family: Georgia, serif;
+    background: #f7f5f2;
+    color: #333;
+    margin: 20px;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    max-width: 800px;
+}
