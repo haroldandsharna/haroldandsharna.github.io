@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery – Harold & Sharna Bennison</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Gallery</h1>
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="archive.html">Archive</a>
+    </nav>
+</header>
+
+<main>
+    <p>Photos will be added here over time.</p>
+
+    <ul>
+        <li><a href="uploads/photos/">Photos folder</a></li>
+    </ul>
+</main>
+
+<footer>
+    <p>&copy; 2026 Harold & Sharna Bennison</p>
+</footer>
+
+</body>
+</html>
