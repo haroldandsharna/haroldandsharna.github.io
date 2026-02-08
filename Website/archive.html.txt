@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archive – Harold & Sharna Bennison</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Archive</h1>
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="gallery.html">Gallery</a>
+    </nav>
+</header>
+
+<main>
+    <p>Uploaded letters and documents will appear here.</p>
+
+    <ul>
+        <li><a href="uploads/letters/">Letters folder</a></li>
+        <li><a href="uploads/documents/">Documents folder</a></li>
+    </ul>
+</main>
+
+<footer>
+    <p>&copy; 2026 Harold & Sharna Bennison</p>
+</footer>
+
+</body>
+</html>
